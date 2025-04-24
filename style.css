@@ -85,3 +85,32 @@ button.num-3 {
   background-color: purple;
   color: white;
 }
+button.num-4 {
+  background-color: red;
+  color: white;
+}
+
+button.num-5 {
+  background-color: yellow;
+  color: black;
+}
+
+button.num-6 {
+  background-color: #C8A2C8; /* Lilás */
+  color: black;
+}
+
+button.num-7 {
+  background-color: orange;
+  color: white;
+}
+
+button.num-8 {
+  background-color: green;
+  color: white;
+}
+
+button.num-9 {
+  background-color: violet;
+  color: white;
+}
