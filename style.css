@@ -73,3 +73,11 @@ button:nth-child(4n):hover,
 button:last-child:hover {
   background: #e68900;
 }
+button.num-1 {
+  background-color: blue;
+  color: white;
+}
+button.num-2 {
+  backgroud-color: pink;
+  color: white;
+}
