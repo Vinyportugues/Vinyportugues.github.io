@@ -77,14 +77,17 @@ button.num-1 {
   background-color: blue;
   color: white;
 }
+
 button.num-2 {
-  background-color: red;
+  background-color: red;  /* Corrigido aqui */
   color: white;
 }
+
 button.num-3 {
-  background-color: purple;
+  background-color: purple;  /* Corrigido aqui */
   color: white;
 }
+
 button.num-4 {
   background-color: red;
   color: white;
